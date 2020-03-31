@@ -1,0 +1,27 @@
+1.friends=['mahesh','ramesh','ranveer']
+2.print(friend)
+3.print(friend.title() +",he is my best friend")
+4.print(value)
+5.numbers=list(range(1,8))
+6.print(numbers)
+7.print(even_numbers)
+8.print(squares)
+9.banks=['Hdfc','Icic','Indian']
+10.print(banks[0:2])
+11.print(banks[-2:])
+12.print(my_books)
+13.print(friends_books)
+14.print(dimensions[])
+15.cars=['audi','bmw','toyota']
+   If car =='audi':
+   Print(car.Upper())
+   else:
+    print(car.title())
+16.bikes=['honda','scooty','apache']
+     If bike =='apache':
+    print(bike.lower())
+   else:
+    print(bike.title())
+17.requested_order = 'vegbiriyani'
+   If requested_biriyani! ='chickenbiriyani':
+   print("hold the chicken biriyani!")
